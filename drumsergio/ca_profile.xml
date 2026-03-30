@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://github.com/GeiserX.png</Icon>
+  <Profile>
+    Self-hosted Docker images for networking, media management, backups, and productivity. Multi-arch (amd64/arm64) wherever possible.
+  </Profile>
+  <WebPage>https://geiser.cloud</WebPage>
+</Maintainer>
