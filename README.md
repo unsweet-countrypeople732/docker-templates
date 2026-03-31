@@ -32,3 +32,5 @@ https://github.com/GeiserX/docker-templates
 | Media Triage | `drumsergio/media-triage` | Media pipeline dashboard |
 | Pumperly | `drumsergio/pumperly` | Fuel price & EV route planner |
 | Duplicacy Exporter | `ghcr.io/geiserx/duplicacy-exporter` | Prometheus exporter for Duplicacy metrics |
+| Website-Diff | `drumsergio/website-diff` | Web page comparison with Wayback Machine support |
+| Web Mirror | `drumsergio/web-mirror` | Mirror webpages for offline access |
