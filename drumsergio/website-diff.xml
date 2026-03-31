@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>website-diff</Name>
+  <Repository>drumsergio/website-diff:latest</Repository>
+  <Registry>https://hub.docker.com/r/drumsergio/website-diff</Registry>
+  <Network>bridge</Network>
+  <Privileged>false</Privileged>
+  <Support>https://github.com/GeiserX/Website-Diff/issues</Support>
+  <Project>https://github.com/GeiserX/Website-Diff</Project>
+  <Overview>Intelligent web page comparison tool with Wayback Machine support, visual regression testing, and significance scoring. Compares two URLs and detects meaningful differences with automatic Wayback Machine artifact cleaning.&#xD;
+[br][br]&#xD;
+Features multi-browser visual comparison, markdown report generation, site-wide crawling, and CI/CD-ready exit codes.&#xD;
+[br][br]&#xD;
+More info: https://github.com/GeiserX/Website-Diff</Overview>
+  <Category>Tools:</Category>
+  <TemplateURL>https://raw.githubusercontent.com/GeiserX/docker-templates/master/drumsergio/website-diff.xml</TemplateURL>
+  <Icon>https://raw.githubusercontent.com/GeiserX/docker-templates/master/drumsergio/images/website-diff.png</Icon>
+  <ExtraSearchTerms>website diff compare wayback machine visual regression html</ExtraSearchTerms>
+  <PostArgs>https://example.com/old https://example.com/new</PostArgs>
+  <Config Name="Output Directory" Target="/output" Default="/mnt/user/appdata/website-diff/output" Mode="rw" Description="Directory to store diff reports and screenshots" Type="Path" Display="always" Required="true" Mask="false"/>
+</Container>
